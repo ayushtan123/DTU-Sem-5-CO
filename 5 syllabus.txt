@@ -1,0 +1,28 @@
+SE
+1,2,3 of syllabus
+1,2,3,5 ppt
+
+HU301
+1,2 syllabus
+
+89 pages madam a2 + 26 a3
+
+EV
+
+Following chapters can be considered for mid term examination:
+1. ELECTRIC VEHICLE TECHNOLOGY EXPLAINED
+Chapter 1, 2
+2. Electric Powertrain: Energy Systems, Power Electronics and Drives for Hybrid, Electric and Fuel Cell Vehicles
+Chapter 11, 14
+
+3. Advanced Electric Drive Vehicles **
+Chapter 11 (basics of EV), 13 (only non-isolated converters)
+
+Syllabus 
+Unit 1 full 
+Then study basics about chargers thoda as theory only 
+
+For derivation and numerical 
+Buck converter 
+Boost converter 
+Interleaved buck and boost converter their derivations and numerical
